@@ -1,6 +1,6 @@
 ## Aarya Upadhya
 
-3rd-year CS @ PES University (AIML) · Research Intern @ IISc
+3rd-year CS @ PES University (AIML) 
 
 I work on **structured representation learning** — investigating how geometric 
 constraints and relational inductive biases shape what neural networks learn, 
