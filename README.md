@@ -1,4 +1,5 @@
 ## Aarya Upadhya
+https://www.linkedin.com/in/aarya-upadhya-841b90384/
 
 3rd-year CS @ PES University (AIML) 
 
@@ -39,3 +40,4 @@ concepts and failure modes. Investigates compositional routing beyond flat vecto
 ---
 
 📫 aarya.upadhya@gmail.com
+
