@@ -29,7 +29,7 @@ concepts and failure modes. Investigates compositional routing beyond flat vecto
 - 📄 Second Author · *ESSD (Earth System Science Data)* · Under Review  
   Multivariate feature representation for hydrothermal dynamics modelling · [Dataset](https://zenodo.org/records/18409640)
 - 🏛️ Research Intern · IISc Aerospace CINT Lab (2025)  
-  Infant pose estimation, motion trajectory analysis, HR-Net architectural modifications
+  Infant pose estimation, GMA classification , High Resolution Pose estimation Models
 
 ---
 
