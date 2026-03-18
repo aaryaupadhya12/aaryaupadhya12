@@ -1,5 +1,4 @@
 ## Aarya Upadhya
-https://www.linkedin.com/in/aarya-upadhya-841b90384/
 
 3rd-year CS @ PES University (AIML) 
 
