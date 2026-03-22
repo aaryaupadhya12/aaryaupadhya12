@@ -22,16 +22,7 @@ and motif participation scores. Applies ViG backbone to unstructured 3D geometry
 Typed relational embeddings encoding structure between problems, agents, reasoning 
 concepts and failure modes. Investigates compositional routing beyond flat vector similarity.  
 
----
 
-### Publications & Affiliations
-
-- 📄 Second Author · *ESSD (Earth System Science Data)* · Under Review  
-  Multivariate feature representation for hydrothermal dynamics modelling · [Dataset](https://zenodo.org/records/18409640)
-- 🏛️ Research Intern · IISc Aerospace CINT Lab (2025)  
-  Infant pose estimation, GMA classification , High Resolution Pose estimation Models
-
----
 
 ### Core Stack
 `PyTorch` `PyTorch Geometric` `HuggingFace` `NumPy` `Python`
