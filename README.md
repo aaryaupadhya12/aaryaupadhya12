@@ -18,10 +18,5 @@ I work on RL policies for real systems reward signal design, policy evaluation, 
 | [PAR-VAE](https://github.com/aaryaupadhya12/Physics-Attribute-Regularized-VAE) | Physics-regularized VAE for CT imaging : 85-dim latent space tied to 14 interpretable physics attributes, accepted MIUA 2026 |
 | [GREM](https://github.com/aaryaupadhya12/GREM) | Multi-agent reasoning distilled into a 22M cross-encoder : zero LLM calls at inference |
 
-## Stack
-
-`PyTorch` · `PyTorch Geometric` · `HuggingFace` · `NumPy` · `Python`
-
----
 
 aarya.upadhya@gmail.com
