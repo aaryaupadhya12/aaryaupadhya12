@@ -6,8 +6,8 @@ I work on RL policies for real systems — reward signal design, policy evaluati
 
 ## Publications
 
-- **PAR-VAE: A Physics-Constrained Generative Audit of CT Severity Classification** — 1st author, accepted at MIUA 2026 (Springer LNCS)
-- **High-frequency soil hydrothermal observations from a semi-arid monsoon catchment in southern India, 2016–2025** — 2nd author, Nature Portfolio, under revision · [dataset](https://zenodo.org/records/18409640)
+- **PAR-VAE: A Physics-Constrained Generative Audit of CT Severity Classification** :  1st author, accepted at MIUA 2026 (Springer LNCS)
+- **High-frequency soil hydrothermal observations from a semi-arid monsoon catchment in southern India, 2016–2025** : 2nd author, Nature Portfolio, under revision · [dataset](https://zenodo.org/records/18409640)
 
 ## Projects
 
