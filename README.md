@@ -1,11 +1,11 @@
 # Aarya Upadhya
 
-4th-year CS (AI/ML) @ PES University, Bengaluru  
+4th-year Undergrad 
 aarya.upadhya@gmail.com
 
 Building [test1](https://github.com/aaryaupadhya12/test1)
 
-**In short:** Building an agentic harness from scratch for LLM post-training, focusing on reward hacking and benchmark gaming. Long term, aiming to post-train MoE and RLMs on coding tasks.
+**In short:** Building a Harness to Audit Reward Hacking for RL environments 
 
 **Inspired by:**
 - Core: OpenEnv, Prime Intellect
